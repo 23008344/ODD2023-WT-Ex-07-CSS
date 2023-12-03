@@ -11,7 +11,8 @@ Dark Mode Preference:
 
 If the user has set their device to dark mode, override the above styles with the following: Background color: Black (#000) Text color: White (#fff) Link color: Cyan (#17a2b8)
 
-## DESIGN STEPS: 7(i)
+## DESIGN STEPS: 7(i):
+
 ## step 1:
 
 Start Define the document type as HTML.
@@ -89,13 +90,13 @@ Close the HTML structure.
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 
-## Ex-07(ii)-CSS
+## Ex-07(ii)-CSS:
 
 ## AIM:
  
  To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px) by providing an example CSS snippet to demonstrate your answer.
 
-## DESIGN STEPS: 7(ii)
+## DESIGN STEPS: 7(ii):
 
 ## step 1:
  
@@ -124,7 +125,7 @@ for the list of hyperlinks.
 
 End the HTML document by closing all open tags.
 
-## CODE: 7(ii)
+## CODE: 7(ii):
 
 ```
 <!DOCTYPE html>
@@ -160,7 +161,7 @@ End the HTML document by closing all open tags.
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 
-## Ex-07(iii)-CSS Orientation-based Media Query
+## Ex-07(iii)-CSS Orientation-based Media Query:
 
 ## AIM:
 
@@ -196,7 +197,7 @@ Save your HTML file.
 
 Open your HTML file in a web browser and change the orientation of your device to see the different styles applied.
 
-## CODE: 7(iii)
+## CODE: 7(iii):
 
 ```
 <!DOCTYPE html>
@@ -232,7 +233,7 @@ Open your HTML file in a web browser and change the orientation of your device t
 ![Alt text](image-6.png)
 ![Alt text](image-7.png)
 
-## Ex-07(iv)-CSS Responsive Typography
+## Ex-07(iv)-CSS Responsive Typography:
 
 ## AIM:
 
@@ -268,7 +269,7 @@ Test Your Styles.
 
 Iterate: Adjust your media queries and styles as needed based on your tests.
 
-## CODE: 7(iv)
+## CODE: 7(iv):
 
 ```
 <!DOCTYPE html>
@@ -323,7 +324,7 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 
 To use a media query to change the styling of a webpage when it is printed, such as changing the background to white and hiding non-essential elements. Provide a CSS example.
 
-## DESIGN STEPS: 7(v)
+## DESIGN STEPS: 7(v):
 
 ## Step 1:
 
@@ -404,7 +405,7 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ![Alt text](image-12.png)
 
 
-## Ex-07(vi)-Dark Mode Implementation
+## Ex-07(vi)-Dark Mode Implementation:
 
 ## AIM:
 
