@@ -85,6 +85,7 @@ Close the HTML structure.
   </html>
 ```
 ## OUTPUT: 7(i):
+
 ![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/2436763b-c033-4cfc-84ea-20f3aab7fbf1)
 
 ![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/c5cc672e-7272-4b53-8719-22f868e578fe)
@@ -158,6 +159,7 @@ End the HTML document by closing all open tags.
   </body>
   </html>
 ```
+
 ## OUTPUT:7(ii):
 
 ![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/c7706eaf-5408-43f6-8039-b795ceadd1a9)
@@ -488,7 +490,6 @@ Remember to test your website in both light and dark modes to ensure the colors 
 ## OUTPUT:7(vi):
 
 ![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/595f2793-d8bb-498e-af48-d48b514511b8)
-
 
 ![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/e6041c06-5e02-4e94-8ef3-9f161160c4f9)
 
