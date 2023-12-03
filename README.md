@@ -85,11 +85,12 @@ Close the HTML structure.
   </html>
 ```
 ## OUTPUT: 7(i):
-![Alt text](image.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/2436763b-c033-4cfc-84ea-20f3aab7fbf1)
 
-![Alt text](image-2.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/c5cc672e-7272-4b53-8719-22f868e578fe)
 
-![Alt text](image-1.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/e187fe57-dcc3-4c07-bc9f-71b3488783f9)
+
 
 ## Ex-07(ii)-CSS:
 
@@ -159,9 +160,10 @@ End the HTML document by closing all open tags.
 ```
 ## OUTPUT:7(ii):
 
-![Alt text](image-3.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/c7706eaf-5408-43f6-8039-b795ceadd1a9)
 
-![Alt text](image-4.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/e09fd2ef-0355-48d6-8c10-d5abf3a16630)
+
 
 ## Ex-07(iii)-CSS Orientation-based Media Query:
 
@@ -232,9 +234,9 @@ Open your HTML file in a web browser and change the orientation of your device t
 ```
 ## OUTPUT:7(iii):
 
-![Alt text](image-5.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/4a1ea4f6-3447-4529-a718-85730a5dc5aa)
 
-![Alt text](image-6.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/6639c32c-8981-40ec-aaae-f95bb779e8b3)
 
 
 ## Ex-07(iv)-CSS Responsive Typography:
@@ -320,11 +322,11 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ```
 ## OUTPUT:7(iv):
 
-![Alt text](image-7.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/11b898f6-2f02-467c-b206-ff146f583bdc)
 
-![Alt text](image-8.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/b9f401b3-754a-4e2a-9724-7d299993d6b0)
 
-![Alt text](image-9.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/6a33e08e-f6fe-48d5-a842-848be98645e8)
 
 ## AIM:
 
@@ -407,9 +409,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ```
 ## OUTPUT:7(v):
 
-![Alt text](image-10.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/131ba717-2788-4c9c-bf74-5143551a9b88)
 
-![Alt text](image-11.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/c1644cff-f1a8-4276-9c9c-d7f2e5673d67)
 
 
 ## Ex-07(vi)-Dark Mode Implementation:
@@ -485,6 +487,8 @@ Remember to test your website in both light and dark modes to ensure the colors 
 ```
 ## OUTPUT:7(vi):
 
-![Alt text](image-12.png)
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/595f2793-d8bb-498e-af48-d48b514511b8)
 
-![Alt text](image-13.png)
+
+![image](https://github.com/23008344/ODD2023-WT-Ex-07-CSS/assets/145742655/e6041c06-5e02-4e94-8ef3-9f161160c4f9)
+
