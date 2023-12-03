@@ -85,10 +85,11 @@ Close the HTML structure.
   </html>
 ```
 ## OUTPUT: 7(i):
-
 ![Alt text](image.png)
+
 ![Alt text](image-2.png)
-![Alt text](image-3.png)
+
+![Alt text](image-1.png)
 
 ## Ex-07(ii)-CSS:
 
@@ -158,8 +159,9 @@ End the HTML document by closing all open tags.
 ```
 ## OUTPUT:7(ii):
 
+![Alt text](image-3.png)
+
 ![Alt text](image-4.png)
-![Alt text](image-5.png)
 
 ## Ex-07(iii)-CSS Orientation-based Media Query:
 
@@ -230,8 +232,10 @@ Open your HTML file in a web browser and change the orientation of your device t
 ```
 ## OUTPUT:7(iii):
 
+![Alt text](image-5.png)
+
 ![Alt text](image-6.png)
-![Alt text](image-7.png)
+
 
 ## Ex-07(iv)-CSS Responsive Typography:
 
@@ -316,9 +320,11 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ```
 ## OUTPUT:7(iv):
 
+![Alt text](image-7.png)
+
 ![Alt text](image-8.png)
+
 ![Alt text](image-9.png)
-![Alt text](image-10.png)
 
 ## AIM:
 
@@ -401,8 +407,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ```
 ## OUTPUT:7(v):
 
+![Alt text](image-10.png)
+
 ![Alt text](image-11.png)
-![Alt text](image-12.png)
 
 
 ## Ex-07(vi)-Dark Mode Implementation:
@@ -478,5 +485,6 @@ Remember to test your website in both light and dark modes to ensure the colors 
 ```
 ## OUTPUT:7(vi):
 
+![Alt text](image-12.png)
+
 ![Alt text](image-13.png)
-![Alt text](image-14.png)
